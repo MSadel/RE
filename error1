@@ -1,0 +1,23 @@
+Error in fetch(key) : 
+  lazy-load database 'C:/Users/Sadel/Documents/R/win-library/3.2/ggplot2/help/ggplot2.rdb' is corrupt
+In addition: There were 19 warnings (use warnings() to see them)
+Error in fetch(key) : 
+  lazy-load database 'C:/Users/Sadel/Documents/R/win-library/3.2/ggplot2/help/ggplot2.rdb' is corrupt
+In addition: Warning message:
+In fetch(key) : internal error -3 in R_decompress1
+Error in fetch(key) : 
+  lazy-load database 'C:/Users/Sadel/Documents/R/win-library/3.2/ggplot2/help/ggplot2.rdb' is corrupt
+In addition: There were 19 warnings (use warnings() to see them)
+> ggplot(dane, aes(E.MeV., RE)) + geom_point()
+Error in fetch(key) : 
+  lazy-load database 'C:/Users/Sadel/Documents/R/win-library/3.2/ggplot2/help/ggplot2.rdb' is corrupt
+In addition: There were 19 warnings (use warnings() to see them)
+Error in fetch(key) : 
+  lazy-load database 'C:/Users/Sadel/Documents/R/win-library/3.2/ggplot2/help/ggplot2.rdb' is corrupt
+In addition: There were 19 warnings (use warnings() to see them)
+> ggplot(dane, aes(E.MeV., RE)) + geom_point(size=3, col="green")
+> ggplot(dane, aes(E.MeV., RE)) + geom_point(size=3, col="white")
+> ggplot(dane, aes(E.MeV., RE)) + geom_point(size=3)
+Error in fetch(key) : 
+  lazy-load database 'C:/Users/Sadel/Documents/R/win-library/3.2/ggplot2/help/ggplot2.rdb' is corrupt
+In addition: There were 19 warnings (use warnings() to see them)
